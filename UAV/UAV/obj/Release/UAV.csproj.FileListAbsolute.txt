@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\專題(無人機)\CODE\UAV\UAV\obj\Release\UAV.Scanning.resources
+C:\Users\user\Desktop\專題(無人機)\CODE\UAV\UAV\obj\Release\UAV.UAV.resources
+C:\Users\user\Desktop\專題(無人機)\CODE\UAV\UAV\obj\Release\UAV.Properties.Resources.resources
+C:\Users\user\Desktop\專題(無人機)\CODE\UAV\UAV\obj\Release\UAV.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\專題(無人機)\CODE\UAV\UAV\obj\Release\UAV.csproj.CoreCompileInputs.cache

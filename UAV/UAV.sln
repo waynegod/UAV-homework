@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAV", "UAV\UAV.csproj", "{B3057852-8F40-4082-8C6E-06C0252EFCF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3057852-8F40-4082-8C6E-06C0252EFCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3057852-8F40-4082-8C6E-06C0252EFCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3057852-8F40-4082-8C6E-06C0252EFCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3057852-8F40-4082-8C6E-06C0252EFCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {148A0DFC-7330-45B9-815B-8D3F95AB39D5}
+	EndGlobalSection
+EndGlobal
