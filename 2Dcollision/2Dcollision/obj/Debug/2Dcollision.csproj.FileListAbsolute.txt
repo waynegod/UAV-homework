@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\bin\Debug\2Dcollision.exe.config
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\bin\Debug\2Dcollision.exe
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\bin\Debug\2Dcollision.pdb
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\obj\Debug\2Dcollision.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\obj\Debug\_2Dcollision.Form1.resources
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\obj\Debug\_2Dcollision.Properties.Resources.resources
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\obj\Debug\2Dcollision.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\obj\Debug\2Dcollision.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\obj\Debug\2Dcollision.exe
+C:\Users\user\Desktop\Design\C#WFM\2Dcollision\2Dcollision\obj\Debug\2Dcollision.pdb

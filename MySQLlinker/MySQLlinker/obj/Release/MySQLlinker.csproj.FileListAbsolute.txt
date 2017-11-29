@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\bin\Release\MySQLlinker.exe.config
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\bin\Release\MySQLlinker.exe
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\bin\Release\MySQLlinker.pdb
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\bin\Release\MySql.Data.dll
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\bin\Release\MySql.Data.xml
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\obj\Release\MySQLlinker.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\obj\Release\MySQLlinker.Form1.resources
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\obj\Release\MySQLlinker.Properties.Resources.resources
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\obj\Release\MySQLlinker.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\obj\Release\MySQLlinker.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\obj\Release\MySQLlinker.exe
+C:\Users\user\Desktop\Design\C#WFM\MySQLlinker\MySQLlinker\obj\Release\MySQLlinker.pdb
